@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating programme to learn and fun ...<br>📚 I'm currently learning IT<br>🎯 Goals: Climbing, VTT</p>
+<p align="left">✨ Creating program's to learn and have fun ...<br>📚 I'm currently learning IT<br>🎯 Goals: make me better</p>
 
 ###
 
