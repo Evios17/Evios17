@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Antoine and I'm a studen from Reunion island</p>
+<p align="left">My name is Antoine and I'm a student from Reunion island</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating program's to learn and have fun ...<br>📚 I'm currently learning IT<br>🎯 Goals: make me better</p>
+<p align="left">✨ Coding programs to learn and have fun ...<br>📚 I'm currently learning IT<br>🎯 Goals: be better</p>
 
 ###
 
